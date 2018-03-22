@@ -1,0 +1,30 @@
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.DesktopClient.exe.config
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.DesktopClient.exe
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.DesktopClient.pdb
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\Views\MainWindow.baml
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\Views\MainWindow.g.cs
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\App.g.cs
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.cache
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.g.resources
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.Properties.Resources.resources
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.exe
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.pdb
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.Windows.dll
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.Windows.pdb
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.lref
+C:\Users\David\Desktop\EnterpriseMVVM\Build\EnterpriseMVVM.DesktopClient.exe.config
+C:\Users\David\Desktop\EnterpriseMVVM\Build\EnterpriseMVVM.DesktopClient.exe
+C:\Users\David\Desktop\EnterpriseMVVM\Build\EnterpriseMVVM.DesktopClient.pdb
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\Views\MainWindow.g.cs
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\App.g.cs
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.cache
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.lref
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\Views\MainWindow.baml
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.g.resources
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.Properties.Resources.resources
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.exe
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.DesktopClient\obj\Debug\EnterpriseMVVM.DesktopClient.pdb

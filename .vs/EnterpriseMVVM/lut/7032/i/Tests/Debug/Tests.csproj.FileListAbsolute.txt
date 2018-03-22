@@ -1,0 +1,10 @@
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\Tests\bin\Debug\Tests.dll
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\Tests\bin\Debug\Tests.pdb
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\Tests\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\Tests\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\Tests\Debug\Tests.csproj.CopyComplete
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\Tests\Debug\Tests.dll
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\Tests\Debug\Tests.pdb

@@ -1,0 +1,16 @@
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.DesktopClient.exe.config
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.DesktopClient.exe
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\EnterpriseMVVM.DesktopClient\bin\Debug\EnterpriseMVVM.DesktopClient.pdb
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.csprojResolveAssemblyReference.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\Views\MainWindow.g.cs
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\App.g.cs
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.lref
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\Views\MainWindow.baml
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.g.resources
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.Properties.Resources.resources
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.csproj.GenerateResource.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.csproj.CopyComplete
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.exe
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.pdb

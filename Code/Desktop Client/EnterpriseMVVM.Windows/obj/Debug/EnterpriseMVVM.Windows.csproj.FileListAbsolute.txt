@@ -1,0 +1,9 @@
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.Windows\bin\Debug\EnterpriseMVVM.Windows.dll
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.Windows\bin\Debug\EnterpriseMVVM.Windows.pdb
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.dll
+c:\users\david\documents\visual studio 2013\Projects\EnterpriseMVVM\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.pdb
+C:\Users\David\Desktop\EnterpriseMVVM\Build\EnterpriseMVVM.Windows.dll
+C:\Users\David\Desktop\EnterpriseMVVM\Build\EnterpriseMVVM.Windows.pdb
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.dll
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.pdb

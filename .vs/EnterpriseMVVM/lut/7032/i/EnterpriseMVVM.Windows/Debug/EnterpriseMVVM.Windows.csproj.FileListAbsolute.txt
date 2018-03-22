@@ -1,0 +1,7 @@
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\EnterpriseMVVM.Windows\bin\Debug\EnterpriseMVVM.Windows.dll
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\b\EnterpriseMVVM.Windows\bin\Debug\EnterpriseMVVM.Windows.pdb
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Windows\Debug\EnterpriseMVVM.Windows.csprojResolveAssemblyReference.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Windows\Debug\EnterpriseMVVM.Windows.csproj.CoreCompileInputs.cache
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Windows\Debug\EnterpriseMVVM.Windows.csproj.CopyComplete
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Windows\Debug\EnterpriseMVVM.Windows.dll
+C:\Users\ma046192\Documents\MACOM\Software\CSharp\PlayGround\EnterpriseMVVM\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Windows\Debug\EnterpriseMVVM.Windows.pdb
