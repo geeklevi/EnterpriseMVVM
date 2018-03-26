@@ -1,0 +1,5 @@
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Build\EnterpriseMVVM.Data.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Build\EnterpriseMVVM.Data.pdb
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.csproj.CoreCompileInputs.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.pdb

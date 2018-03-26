@@ -1,6 +1,5 @@
 ﻿namespace EnterpriseMVVM.Data.Tests.FunctionalTests
 {
-    using System;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     [TestClass]

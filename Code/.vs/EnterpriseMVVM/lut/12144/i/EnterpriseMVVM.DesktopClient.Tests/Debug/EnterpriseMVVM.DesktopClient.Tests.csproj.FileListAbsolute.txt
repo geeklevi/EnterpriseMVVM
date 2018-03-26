@@ -1,0 +1,9 @@
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Tests\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Tests\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Tests\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Tests\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\EnterpriseMVVM.DesktopClient.Tests.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Tests\EnterpriseMVVM.DesktopClient.Tests\bin\Debug\EnterpriseMVVM.DesktopClient.Tests.pdb
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient.Tests\Debug\EnterpriseMVVM.DesktopClient.Tests.csprojResolveAssemblyReference.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient.Tests\Debug\EnterpriseMVVM.DesktopClient.Tests.csproj.CoreCompileInputs.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient.Tests\Debug\EnterpriseMVVM.DesktopClient.Tests.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient.Tests\Debug\EnterpriseMVVM.DesktopClient.Tests.pdb

@@ -1,0 +1,15 @@
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Build\EnterpriseMVVM.DesktopClient.exe.config
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Build\EnterpriseMVVM.DesktopClient.exe
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Build\EnterpriseMVVM.DesktopClient.pdb
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.csprojResolveAssemblyReference.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\Views\MainWindow.g.cs
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\App.g.cs
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient_MarkupCompile.lref
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\Views\MainWindow.baml
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.g.resources
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.Properties.Resources.resources
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.csproj.GenerateResource.Cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.exe
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.DesktopClient\Debug\EnterpriseMVVM.DesktopClient.pdb

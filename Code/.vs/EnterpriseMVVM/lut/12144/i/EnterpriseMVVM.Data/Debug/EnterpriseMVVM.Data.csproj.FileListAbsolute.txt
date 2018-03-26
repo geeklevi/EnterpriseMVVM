@@ -1,0 +1,6 @@
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Build\EnterpriseMVVM.Data.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\b\Build\EnterpriseMVVM.Data.pdb
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Data\Debug\EnterpriseMVVM.Data.csprojResolveAssemblyReference.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Data\Debug\EnterpriseMVVM.Data.csproj.CoreCompileInputs.cache
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Data\Debug\EnterpriseMVVM.Data.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\.vs\EnterpriseMVVM\lut\0\i\EnterpriseMVVM.Data\Debug\EnterpriseMVVM.Data.pdb
