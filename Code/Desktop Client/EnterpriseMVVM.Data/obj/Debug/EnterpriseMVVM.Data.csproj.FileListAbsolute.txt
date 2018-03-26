@@ -1,5 +1,18 @@
-C:\Users\LEVI\source\repos\EnterpriseMVVM\Build\EnterpriseMVVM.Data.dll
-C:\Users\LEVI\source\repos\EnterpriseMVVM\Build\EnterpriseMVVM.Data.pdb
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EnterpriseMVVM.Data.dll
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EnterpriseMVVM.Data.pdb
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.dll
+C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.pdb
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EnterpriseMVVM.Data.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EnterpriseMVVM.Data.pdb
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.xml
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.csproj.CoreCompileInputs.cache
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.dll
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.pdb

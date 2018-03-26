@@ -8,7 +8,6 @@ namespace EnterpriseMVVM.Windows.Tests.UnitTests
     using System;
     using System.ComponentModel;
     using System.ComponentModel.DataAnnotations;
-    using Windows;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     [TestClass]

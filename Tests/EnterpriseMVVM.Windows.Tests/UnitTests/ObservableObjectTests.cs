@@ -6,7 +6,6 @@
 namespace EnterpriseMVVM.Windows.Tests.UnitTests
 {
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using Windows;
 
     [TestClass]
     public class ObservableObjectTests
