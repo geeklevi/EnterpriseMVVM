@@ -13,6 +13,7 @@ C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Dat
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.xml
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.csprojResolveAssemblyReference.cache
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.csproj.CoreCompileInputs.cache
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.dll
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Data\obj\Debug\EnterpriseMVVM.Data.pdb

@@ -9,7 +9,7 @@ namespace EnterpriseMVVM.Data.Tests.FunctionalTests
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
     [TestClass]
-    public class CustomerScenarioTests
+    public class CustomerScenarioTests : FunctionalTest
     {
         [TestMethod]
         public void AddNewCustomerIsPersisted()

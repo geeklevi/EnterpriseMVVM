@@ -9,7 +9,6 @@ C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows
 C:\Users\David\Desktop\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.pdb
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Build\EnterpriseMVVM.Windows.dll
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Build\EnterpriseMVVM.Windows.pdb
-C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.csprojResolveAssemblyReference.cache
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.csproj.CoreCompileInputs.cache
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.dll
 C:\Users\LEVI\source\repos\EnterpriseMVVM\Code\Desktop Client\EnterpriseMVVM.Windows\obj\Debug\EnterpriseMVVM.Windows.pdb
